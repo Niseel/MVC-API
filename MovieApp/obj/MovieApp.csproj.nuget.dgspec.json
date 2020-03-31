@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\THANH\\Desktop\\eCommerce\\MovieApp\\MovieApp.csproj": {}
+    "C:\\Users\\THANH\\Desktop\\MVC-API\\MovieApp\\MovieApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\THANH\\Desktop\\eCommerce\\MovieApp\\MovieApp.csproj": {
+    "C:\\Users\\THANH\\Desktop\\MVC-API\\MovieApp\\MovieApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\THANH\\Desktop\\eCommerce\\MovieApp\\MovieApp.csproj",
+        "projectUniqueName": "C:\\Users\\THANH\\Desktop\\MVC-API\\MovieApp\\MovieApp.csproj",
         "projectName": "MovieApp",
-        "projectPath": "C:\\Users\\THANH\\Desktop\\eCommerce\\MovieApp\\MovieApp.csproj",
+        "projectPath": "C:\\Users\\THANH\\Desktop\\MVC-API\\MovieApp\\MovieApp.csproj",
         "packagesPath": "C:\\Users\\THANH\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\THANH\\Desktop\\eCommerce\\MovieApp\\obj\\",
+        "outputPath": "C:\\Users\\THANH\\Desktop\\MVC-API\\MovieApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -18,7 +18,8 @@ namespace MovieApp.Services
         {
             var newMovie = new Movie() {
                 Id = movie.Id,
-                Title = movie.Title
+                Title = movie.Title,
+                Price = movie.Price
             };
             _context.Movies.Add(newMovie);
             _context.SaveChanges();

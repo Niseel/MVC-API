@@ -1,5 +1,5 @@
 {
-  "FilePath": "c:\\Users\\THANH\\Desktop\\eCommerce\\MovieApp\\MovieApp.csproj",
+  "FilePath": "c:\\Users\\THANH\\Desktop\\MVC-API\\MovieApp\\MovieApp.csproj",
   "Configuration": {
     "ConfigurationName": "MVC-3.0",
     "LanguageVersion": "3.0",
@@ -20521,53 +20521,53 @@
   "RootNamespace": "MovieApp",
   "Documents": [
     {
-      "FilePath": "c:\\Users\\THANH\\Desktop\\eCommerce\\MovieApp\\Views\\Movies\\Create.cshtml",
-      "TargetPath": "Views\\Movies\\Create.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\THANH\\Desktop\\eCommerce\\MovieApp\\Views\\Movies\\Details.cshtml",
+      "FilePath": "c:\\Users\\THANH\\Desktop\\MVC-API\\MovieApp\\Views\\Movies\\Details.cshtml",
       "TargetPath": "Views\\Movies\\Details.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\THANH\\Desktop\\eCommerce\\MovieApp\\Views\\_ViewImports.cshtml",
-      "TargetPath": "Views\\_ViewImports.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\THANH\\Desktop\\eCommerce\\MovieApp\\Views\\Home\\Index.cshtml",
-      "TargetPath": "Views\\Home\\Index.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\THANH\\Desktop\\eCommerce\\MovieApp\\Views\\Movies\\Delete.cshtml",
-      "TargetPath": "Views\\Movies\\Delete.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\THANH\\Desktop\\eCommerce\\MovieApp\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-      "TargetPath": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\THANH\\Desktop\\eCommerce\\MovieApp\\Views\\Movies\\Edit.cshtml",
-      "TargetPath": "Views\\Movies\\Edit.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\THANH\\Desktop\\eCommerce\\MovieApp\\Views\\_ViewStart.cshtml",
+      "FilePath": "c:\\Users\\THANH\\Desktop\\MVC-API\\MovieApp\\Views\\_ViewStart.cshtml",
       "TargetPath": "Views\\_ViewStart.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\THANH\\Desktop\\eCommerce\\MovieApp\\Views\\Movies\\Index.cshtml",
+      "FilePath": "c:\\Users\\THANH\\Desktop\\MVC-API\\MovieApp\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+      "TargetPath": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\THANH\\Desktop\\MVC-API\\MovieApp\\Views\\Home\\Index.cshtml",
+      "TargetPath": "Views\\Home\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\THANH\\Desktop\\MVC-API\\MovieApp\\Views\\Movies\\Create.cshtml",
+      "TargetPath": "Views\\Movies\\Create.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\THANH\\Desktop\\MVC-API\\MovieApp\\Views\\Shared\\_Layout.cshtml",
+      "TargetPath": "Views\\Shared\\_Layout.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\THANH\\Desktop\\MVC-API\\MovieApp\\Views\\Movies\\Index.cshtml",
       "TargetPath": "Views\\Movies\\Index.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\THANH\\Desktop\\eCommerce\\MovieApp\\Views\\Shared\\_Layout.cshtml",
-      "TargetPath": "Views\\Shared\\_Layout.cshtml",
+      "FilePath": "c:\\Users\\THANH\\Desktop\\MVC-API\\MovieApp\\Views\\Movies\\Delete.cshtml",
+      "TargetPath": "Views\\Movies\\Delete.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\THANH\\Desktop\\MVC-API\\MovieApp\\Views\\_ViewImports.cshtml",
+      "TargetPath": "Views\\_ViewImports.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\THANH\\Desktop\\MVC-API\\MovieApp\\Views\\Movies\\Edit.cshtml",
+      "TargetPath": "Views\\Movies\\Edit.cshtml",
       "FileKind": "mvc"
     }
   ],

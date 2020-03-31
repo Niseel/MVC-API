@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "4VzT/2ctEMqzh1o9/GShKnlpTTi+Q9WqxQKn/lWuDFZ8JjrJt0CWEaZstQkKCATTLWzJvu3WQN8bCSNm3WX1qQ==",
+  "dgSpecHash": "afzkhC/IwpbNM88x3PCMFQ/xodtBcr3r3Ej99rj573uufXLyPEh2Yjk7urEi6xS9BxgCwohn7cAkoSQj2SNu9A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\THANH\\Desktop\\eCommerce\\MovieApp\\MovieApp.csproj",
+  "projectFilePath": "C:\\Users\\THANH\\Desktop\\MVC-API\\MovieApp\\MovieApp.csproj",
   "expectedPackageFiles": [
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.aspnetcore.razor\\2.2.0\\microsoft.aspnetcore.razor.2.2.0.nupkg.sha512",
