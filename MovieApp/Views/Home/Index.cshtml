@@ -1,0 +1,10 @@
+@model IEnumerable<Movie>
+
+<h2>This is Index page</h2>
+
+@foreach (var movie in Model)
+{
+    <h3>Title: @movie.Title</h3>
+    <br />
+}
+<a asp-controller="Movies" asp-action="Index">Movies - Welcome</a>
